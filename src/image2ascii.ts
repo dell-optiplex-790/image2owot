@@ -40,8 +40,14 @@ function average(rgbArray: Array<RGBA>): RGBA {
     return <RGBA>rgb;
 }
 
-function rgbToInt(r: number, g: number, b: number, a?: number) {
-    return ((r << 16) + (g << 8)) | b;
+function rgbToInt(r: number, g: number, b: number, a?: number): number {
+    var x: number = ((r << 16) + (g << 8)) | b;
+    if(x == 0) {
+        // bugfix
+        return -1;
+    } else {
+        return x;
+    }
 }
 
 
