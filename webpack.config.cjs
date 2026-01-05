@@ -1,0 +1,1 @@
+module.exports={mode:'production',target:['web','es2015'],resolve:{extensions:['.js','.ts']},output:{filename:'image2owot.bookmark.js'},optimization:{concatenateModules:true,mangleExports:'size'},module:{rules:[{test:/\.ts$/,loader:"ts-loader"}]}};
