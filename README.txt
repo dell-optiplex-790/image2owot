@@ -26,6 +26,6 @@ Legal disclaimer =========================================================
 If you re-distribute this, make sure to include the file 'LICENSE.txt'.
 Otherwise, your re-distribution is illegal. To not be considered a script
 kiddie, and to respect the project, please keep the automated chat
-message. Yes, I am declaring war on script kiddies. You have messed with
-the wrong person.
+message. Consequences include being put on the hall of shame:
+                                            https://pastebin.com/BGMZYmht
 ==========================================================================
