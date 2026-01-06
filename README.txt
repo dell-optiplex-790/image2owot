@@ -26,7 +26,8 @@ Legal disclaimer =========================================================
 If you re-distribute this, make sure to include the file 'LICENSE.txt'.
 Otherwise, your re-distribution is illegal. To not be considered a script
 kiddie, and to respect the project, please keep the automated chat
-message. Consequences include your right to distribute this software
-being void (in case the license text is not included) and your clone
-being put in the hall of shame: https://pastebin.com/BGMZYmht
+message (this is a suggestion for respecting me, the author). Consequences
+include your right to distribute this software being void (in case the
+license text is not included) and your clone being put in the hall of
+shame: https://pastebin.com/BGMZYmht
 ==========================================================================
