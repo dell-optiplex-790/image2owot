@@ -40,7 +40,7 @@ function average(rgbArray: Array<RGBA>): RGBA {
     return <RGBA>rgb;
 }
 
-function rgbToInt(r: number, g: number, b: number, a?: number): number {
+export function rgbToInt(r: number, g: number, b: number, a?: number): number {
     if(r == 0 && g == 0 && b == 0) {
         return rgbToInt(1, 1, 1); // bugfix
     } else {
