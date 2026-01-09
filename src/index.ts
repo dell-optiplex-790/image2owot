@@ -76,7 +76,7 @@ function avg(color1: number, color2: number) {
             } else if(dat[i] == dataTypes.NEWLINE) {
                 writeChar('\n');
             }
-            await wait(20);
+            await wait(10);
         }
     })
     img.addEventListener('error', function() {
