@@ -6,9 +6,12 @@ A modified version of Image2ASCII, which pastes images into OWOT
 ==========================================================================
 
 How do I build this? =====================================================
-1. Download this repository
-2. Open a terminal in its directory
-3. Type in `npm i` to install dependencies, and then `npx webpack` in
+Any pre-built distribution on sites such as Pastebin should be deemed
+untrusted, as it can contain malware. Here are the steps to build:
+1. Install Node.js (if you don't have it!)
+2. Download this repository
+3. Open a terminal in its directory
+4. Type in `npm i` to install dependencies, and then `npx webpack` in
    order to actually build.
 ==========================================================================
 
